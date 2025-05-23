@@ -83,7 +83,9 @@
 9.	A novel digital intervention for actively reducing severity of paediatric ADHD（The Lancet Digital Health, 2020）。
 
 ## 🚀 About Me
-我是
+我是上海健康学院大二学生Jack
+本项目于2024年正式立项启动，历时18个月研发周期，于2025年6月完成。在上海浦东新区某一实验小学开展应用，通过场景的持续打磨，实现了从PC端网页平台到移动端小程序的优化。
+做到了趣味性和准确性的迭代与完善。
 
 ## License
 
