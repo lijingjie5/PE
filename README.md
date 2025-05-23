@@ -64,9 +64,9 @@
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/lijingjie5/PE/raw/main/图片1.jpg" width="300" height="400" hspace="20">
-  <img src="https://github.com/lijingjie5/PE/raw/main/图片3.jpg" width="300" height="400" hspace="20">
-  <img src="https://github.com/lijingjie5/PE/raw/main/图片13.jpg" width="300" height="400">
+  <img src="https://github.com/lijingjie5/PE/raw/main/图片1.jpg" width="250" height="300" hspace="20">
+  <img src="https://github.com/lijingjie5/PE/raw/main/图片3.jpg" width="250" height="300" hspace="20">
+  <img src="https://github.com/lijingjie5/PE/raw/main/图片13.jpg" width="250" height="300">
 </p>
 
 
