@@ -50,6 +50,8 @@ o	测试环节（Test-proc）：缩短刺激呈现时间（1000ms）、增加轮
 ## Screenshots
 
 ![App Screenshot](https://github.com/lijingjie5/PE/blob/main/图片1.jpg)
+![App Screenshot](https://github.com/lijingjie5/PE/blob/main/图片3.jpg)
+![App Screenshot](https://github.com/lijingjie5/PE/blob/main/图片13.jpg)
 
 
 ## 参考文献
